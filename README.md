@@ -5,7 +5,7 @@ Hi, I am a passionate iOS engineer from Vancouver, Canada with experience of des
 
 
 ## Portfolio
-[Full version of the portfolio in pdf format](https://docs.google.com/viewer?url=https://github.com/SergeyGorinenko/SergeyGorinenko/blob/main/docs/SenioriOSEngineer-Portfolio.pdf)
+[Full version of the portfolio in pdf format](https://github.com/SergeyGorinenko/SergeyGorinenko/blob/main/docs/SenioriOSEngineer-Portfolio.pdf)
 
 
 ## Forma Vision
