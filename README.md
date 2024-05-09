@@ -5,7 +5,7 @@ Hi, I am a passionate iOS engineer from Vancouver, Canada with experience of des
 
 
 ## Portfolio
-[Download the full version of the portfolio in pdf format](docs/Senior iOS Engineer - Portfolio.pdf)
+[Download the full version of the portfolio in pdf format](docs/Senior%20iOS%20Engineer%20-%20Portfolio.pdf)
 
 
 ## Forma Vision
