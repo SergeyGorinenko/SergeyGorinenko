@@ -5,7 +5,8 @@ Hi, I am a passionate iOS engineer from Vancouver, Canada with experience of des
 
 
 ## Portfolio
-<a href="docs/Senior%20iOS%20Engineer%20-%20Portfolio.pdf" title="Download" download>Download the full version of the portfolio in pdf format</a>
+[Full version of the portfolio in pdf format](https://docs.google.com/viewer?url=https://github.com/SergeyGorinenko/SergeyGorinenko/blob/main/docs/Senior%20iOS%20Engineer%20-%20Portfolio.pdf)
+
 
 ## Forma Vision
 [Forma Vision](https://formavision.io) app allows remote and hybrid teams to participate in holographic meetings. Mobile phone users can see holograms in Augmented Reality and send a 2D video of themselves to these holographic participants and other mobile phone users.
