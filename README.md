@@ -4,6 +4,16 @@
 Hi, I am a passionate iOS engineer from Vancouver, Canada with experience of designing, building, and maintaining applications throughout the product lifecycle in Swift, SwiftUI, UIKit , and Objective-C. Experienced with research and development in both large and small teams across a wide range of industries.
 
 
+## Most Used Languages
+<p align="center">
+<img src="assets/icons/swift_icon.jpeg">
+<img src="assets/icons/objective-c_icon.jpeg">
+<img src="assets/icons/python_icon.jpeg">
+<img src="assets/icons/c++_icon.jpeg">
+<img src="assets/icons/java_icon.jpeg">
+</p>
+
+
 ## Portfolio
 [Full version of the portfolio in pdf format](https://github.com/SergeyGorinenko/SergeyGorinenko/blob/main/docs/Serhii%20Horinenko%20-%20Senior%20iOS%20Engineer%20-%20Portfolio.pdf)
 
