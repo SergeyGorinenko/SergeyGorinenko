@@ -6,11 +6,11 @@ Hi, I am a passionate iOS engineer from Vancouver, Canada with experience of des
 
 ## Most Used Languages
 <p align="center">
-<img src="assets/icons/swift_icon.jpeg">
-<img src="assets/icons/objective-c_icon.jpeg">
-<img src="assets/icons/python_icon.jpeg">
-<img src="assets/icons/c++_icon.jpeg">
-<img src="assets/icons/java_icon.jpeg">
+<img src="assets/icons/swift_icon.png">
+<img src="assets/icons/objective-c_icon.png">
+<img src="assets/icons/python_icon.png">
+<img src="assets/icons/c++_icon.png">
+<img src="assets/icons/java_icon.png">
 </p>
 
 
